@@ -461,10 +461,10 @@ Hello World, I did a training course (**edX: Introduction to Linux**) and my job
 
 ## Conclusion
 
-This is the end of this summary. It's rather longer than I expected it to be. I guess the reason is beacause **I learned a more lot** of things than I though (haha). I thank the **Linux Fondation** for this greatful course. But still, some of you would complain, arguing that this summary isn't fully complete. And you're certainely right. However, for every command or concept, if you want to go deeper (and you should !), there are documentations available, like the famous **man pages**, or of course this precise course (**edX Course: Introduction to Linux**) ! As the saying goes: 
+This is the end of this summary. It's rather longer than I expected it to be. I guess the reason is because **I learned a more lot** of things than I though (haha). I thank the **Linux Fondation** for this greatful course. But still, some of you would complain, arguing that this summary isn't fully complete. And you're certainely right. However, for every command or concept, if you want to go deeper (and you should !), there are documentations available, like the famous **man pages**, or of course this precise course (**edX Course: Introduction to Linux**) ! As the saying goes: 
 > Give a man a fish, and you feed him for a day. Teach a man to fish, and you feed him for a lifetime. 
 
-For that, I thing I fulfilled the main goal. I hope you enjoyed this summary ! 
+For that, I think I fulfilled the main goal. I hope you enjoyed this summary ! 
 
 ![fisherman metaphor][fisherman]
 
