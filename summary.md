@@ -409,7 +409,7 @@ Hello World, I did a training course (**edX: Introduction to Linux**) and my job
    `command &` 
     or 
     ```bash
-    *command*
+    some_command
     bg
     ```
    * Use `fg` to put in back in foreground. 
